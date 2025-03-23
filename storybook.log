@@ -1,0 +1,4 @@
+npm warn ERESOLVE overriding peer dependency
+npm warn ERESOLVE overriding peer dependency
+npm error Cannot read properties of null (reading 'matches')
+npm error A complete log of this run can be found in: /Users/khangnghiem/.npm/_logs/2025-03-23T13_11_08_543Z-debug-0.log
